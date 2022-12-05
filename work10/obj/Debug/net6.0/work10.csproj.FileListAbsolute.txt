@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\homework\work10\bin\Debug\net6.0\work10.exe
+C:\Users\пользователь\Desktop\homework\work10\bin\Debug\net6.0\work10.deps.json
+C:\Users\пользователь\Desktop\homework\work10\bin\Debug\net6.0\work10.runtimeconfig.json
+C:\Users\пользователь\Desktop\homework\work10\bin\Debug\net6.0\work10.dll
+C:\Users\пользователь\Desktop\homework\work10\bin\Debug\net6.0\work10.pdb
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.dll
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\refint\work10.dll
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.pdb
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\work10.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\homework\work10\obj\Debug\net6.0\ref\work10.dll
