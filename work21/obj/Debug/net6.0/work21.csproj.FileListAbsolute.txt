@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\homework\work21\bin\Debug\net6.0\work21.exe
+C:\Users\пользователь\Desktop\homework\work21\bin\Debug\net6.0\work21.deps.json
+C:\Users\пользователь\Desktop\homework\work21\bin\Debug\net6.0\work21.runtimeconfig.json
+C:\Users\пользователь\Desktop\homework\work21\bin\Debug\net6.0\work21.dll
+C:\Users\пользователь\Desktop\homework\work21\bin\Debug\net6.0\work21.pdb
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.dll
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\refint\work21.dll
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.pdb
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\work21.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\homework\work21\obj\Debug\net6.0\ref\work21.dll
