@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\homework\work23\bin\Debug\net6.0\work23.exe
+C:\Users\пользователь\Desktop\homework\work23\bin\Debug\net6.0\work23.deps.json
+C:\Users\пользователь\Desktop\homework\work23\bin\Debug\net6.0\work23.runtimeconfig.json
+C:\Users\пользователь\Desktop\homework\work23\bin\Debug\net6.0\work23.dll
+C:\Users\пользователь\Desktop\homework\work23\bin\Debug\net6.0\work23.pdb
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.dll
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\refint\work23.dll
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.pdb
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\work23.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\homework\work23\obj\Debug\net6.0\ref\work23.dll
