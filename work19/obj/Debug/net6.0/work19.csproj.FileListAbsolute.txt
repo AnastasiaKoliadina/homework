@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\homework\work19\bin\Debug\net6.0\work19.exe
+C:\Users\пользователь\Desktop\homework\work19\bin\Debug\net6.0\work19.deps.json
+C:\Users\пользователь\Desktop\homework\work19\bin\Debug\net6.0\work19.runtimeconfig.json
+C:\Users\пользователь\Desktop\homework\work19\bin\Debug\net6.0\work19.dll
+C:\Users\пользователь\Desktop\homework\work19\bin\Debug\net6.0\work19.pdb
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.dll
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\refint\work19.dll
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.pdb
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\work19.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\homework\work19\obj\Debug\net6.0\ref\work19.dll
