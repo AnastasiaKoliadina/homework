@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\homework\work29\bin\Debug\net6.0\work29.exe
+C:\Users\пользователь\Desktop\homework\work29\bin\Debug\net6.0\work29.deps.json
+C:\Users\пользователь\Desktop\homework\work29\bin\Debug\net6.0\work29.runtimeconfig.json
+C:\Users\пользователь\Desktop\homework\work29\bin\Debug\net6.0\work29.dll
+C:\Users\пользователь\Desktop\homework\work29\bin\Debug\net6.0\work29.pdb
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.dll
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\refint\work29.dll
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.pdb
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\work29.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\homework\work29\obj\Debug\net6.0\ref\work29.dll
