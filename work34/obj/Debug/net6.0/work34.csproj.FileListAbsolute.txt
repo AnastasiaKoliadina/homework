@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\homework\work34\bin\Debug\net6.0\work34.exe
+C:\Users\пользователь\Desktop\homework\work34\bin\Debug\net6.0\work34.deps.json
+C:\Users\пользователь\Desktop\homework\work34\bin\Debug\net6.0\work34.runtimeconfig.json
+C:\Users\пользователь\Desktop\homework\work34\bin\Debug\net6.0\work34.dll
+C:\Users\пользователь\Desktop\homework\work34\bin\Debug\net6.0\work34.pdb
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.dll
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\refint\work34.dll
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.pdb
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\work34.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\homework\work34\obj\Debug\net6.0\ref\work34.dll
