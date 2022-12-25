@@ -41,3 +41,4 @@ int[] MultPairArray(int[] array)
 int[] array = CreateArrayRndInt(6, 1, 10);
 PrintArray(array);
 PrintArray(MultPairArray(array));
+
