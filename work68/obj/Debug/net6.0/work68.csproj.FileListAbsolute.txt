@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\homework\work68\bin\Debug\net6.0\work68.exe
+C:\Users\пользователь\Desktop\homework\work68\bin\Debug\net6.0\work68.deps.json
+C:\Users\пользователь\Desktop\homework\work68\bin\Debug\net6.0\work68.runtimeconfig.json
+C:\Users\пользователь\Desktop\homework\work68\bin\Debug\net6.0\work68.dll
+C:\Users\пользователь\Desktop\homework\work68\bin\Debug\net6.0\work68.pdb
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.dll
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\refint\work68.dll
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.pdb
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\work68.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\homework\work68\obj\Debug\net6.0\ref\work68.dll
